@@ -31,12 +31,6 @@
 
 
 
-    
-## Contactame
-
-<div >
-<a href="www.linkedin.com/in/ignacio-solá-zambrano" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> https://www.linkedin.com/in/ignacio-solá-zambrano &nbsp;
-</div>
-<a href="mailto:ignaciojsolaz@gmail.com" ><img width="3%" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"> ignaciojsolaz@gmail.com &nbsp;
-</div>
-<div >
+### contactame: 
+#### e-mail: ignaciojsolaz@gmail.com
+#### LinkedIn :www.linkedin.com/in/ignacio-solá-zambrano
