@@ -1,6 +1,5 @@
 # Hola, soy Ignacio Solá! 👋
 
-![Examinate / Fondo: Ruta 1, California](https://res.cloudinary.com/tomasgoyret/image/upload/v1642796379/Exam%C3%ADnate_y_no_te_contentes_con_lo_que_eres_si_quieres_llegar_a_lo_que_no_eres._Porque_en_el_instante_que_te_complazcas_contigo_mismo_te_habr%C3%A1s_parado_._San_Agust%C3%ADn_x8dlac.gif)
 
 ## Me gustan los negocios y la tecnología. Me motiva aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo ayudarte, con gusto lo haré.
 
@@ -36,7 +35,7 @@
 ## Contactame
 
 <div >
-<a href="www.linkedin.com/in/ignacio-solá-zambrano" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> https://www.linkedin.com/in/ignacio-solá-zambrano// &nbsp;
+<a href="www.linkedin.com/in/ignacio-solá-zambrano" ><img width="3%" src="https://image.flaticon.com/icons/png/512/174/174857.png"> https://www.linkedin.com/in/ignacio-solá-zambrano &nbsp;
 </div>
 <a href="mailto:ignaciojsolaz@gmail.com" ><img width="3%" src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png"> ignaciojsolaz@gmail.com &nbsp;
 </div>
