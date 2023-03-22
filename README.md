@@ -1,7 +1,7 @@
 # Hola, soy Ignacio Solá! 👋
 
 
-## Me gustan los negocios y la tecnología, lo que me llevo a realizar emprendimientos y hecer el bootcam de Henry. Me motiva aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo ayudarte, con gusto lo haré.
+## Me gustan la tecnología, lo que me llevo a hecer el bootcam de Henry. Me motiva aprender haciendo y me gusta trabajar de forma sistémica y con un plan claro, mejor en equipo. Si puedo ayudarte, con gusto lo haré.
 
 
 <h3> Tech Skills </h3>
